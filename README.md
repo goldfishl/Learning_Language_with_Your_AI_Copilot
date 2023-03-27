@@ -11,3 +11,8 @@
 
 # Roadmap
 - [ ] Vocabulary Memory Review Feature
+
+
+# License
+
+MIT License
